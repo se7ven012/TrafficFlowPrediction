@@ -34,14 +34,14 @@ python train.py
 ```
 
 ## Results 
-# when time steps=6 batch size=128
+when time steps=6 batch size=128
 ![LCTFP](https://github.com/se7ven012/TrafficFlowPrediction/blob/master/result/workdays_6_128_result.png)
 
-# when time steps=9 batch size=128
+when time steps=9 batch size=128
 ![LCTFP](https://github.com/se7ven012/TrafficFlowPrediction/blob/master/result/workdays_9_128_result.png)
 
-# when time steps=12 batch size=128
+when time steps=12 batch size=128
 ![LCTFP](https://github.com/se7ven012/TrafficFlowPrediction/blob/master/result/workdays_12_128_result.png)
 
-# when time steps=18 batch size=128
+when time steps=18 batch size=128
 ![LCTFP](https://github.com/se7ven012/TrafficFlowPrediction/blob/master/result/workdays_18_128_result.png)
