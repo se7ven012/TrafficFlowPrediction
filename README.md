@@ -32,3 +32,6 @@ python print_loss.py
 ```
 python train.py
 ```
+
+## Result when time steps=12 batch size=128
+![LCTFP](https://github.com/se7ven012/TrafficFlowPrediction/blob/master/result/workdays_12_128_result.png)
